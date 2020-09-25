@@ -5,7 +5,7 @@ I'm working  with [PyTorch] on the CIFAR10 dataset.
 ## Accuracy
 | Model             | Acc.        |
 | ----------------- | ----------- |
-| [ResNet101](https://arxiv.org/abs/1512.03385)         | 82.75%      |
+| [ResNet152](https://arxiv.org/abs/1512.03385)         | 82.75%      |
 | [GoogLeNet]                                           | 85.75%      |
 | [VGG16](https://arxiv.org/abs/1409.1556)              | 92.64%      |
 | [ResNet18](https://arxiv.org/abs/1512.03385)          | 93.02%      |
